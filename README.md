@@ -18,7 +18,12 @@ Este é o meu primeiro repositório no GitHub. Estou começando minha jornada no
 - 🛠️ Experimentos com código
 
 
+teste de conflito
 ## xxxxxx
+=======
+## yyyyyyyyyy
+teste de conflito
+
  
 Meu objetivo é me tornar um desenvolvedor web e criar projetos incríveis no futuro.
 
